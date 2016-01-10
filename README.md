@@ -14,7 +14,7 @@ just add the dependency to your composer.json.
 ```json
 {
   "require" : {
-    "yep/stopwatch": "dev-master"
+    "yep/stopwatch": "1.*"
   }
 }
 ```
